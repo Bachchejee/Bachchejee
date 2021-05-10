@@ -1,6 +1,5 @@
 <h1 align="center"> Welcome to my Profile </h1>
 <p align="center">
-<hr>
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bachchejee Ray</h2>
 <h3 align="center">Data Scientist</h3>
 <p align="center">
