@@ -11,19 +11,8 @@
 
 
 <p align="center">
-  <em>
-    This is ME, Bachchejee Ray, a Data Scientist with extensive experience in solving many real-world business problems across different domains.
-I have 2 Year experience in Software. Currently, I have a complete data science internship and a lot of skills gain. Currently working as a Data Scientist Machine Learning & Deep Learning Developer. Possess widespread and progressive experience in the IT industry, focusing on business analysis, design, development, implementation, and migration of large-scale, big-budget business transformation projects. Impeccable knowledge for initiating applications with Algorithms, Data structures, Artificial Intelligence, Machine Learning, Deep Learning, Convolutional Neural networks, Recurrent Neural networks, and Software Development & Project Implementation. 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+  <em> This is ME, Bachchejee Ray, a Data Scientist with extensive experience in solving many real-world business problems across different domains. I have 2 Year experience in Software. Currently, I have a complete data science internship and a lot of skills gain. Currently working as a Data Scientist Machine Learning & Deep Learning Developer. Possess widespread and progressive experience in the IT industry, focusing on business analysis, design, development, implementation, and migration of large-scale, big-budget business transformation projects. Impeccable knowledge for initiating applications with Algorithms, Data structures, Artificial Intelligence, Machine Learning, Deep Learning, Convolutional Neural networks, Recurrent Neural networks, and Software Development & Project Implementation.
   </em> 
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 - 🔭 I’m currently working on Nackton Inc.
