@@ -1,5 +1,4 @@
-<h1 align="center">Hi, visitor, I'm Bachchejee Ray.
-Welcome to my profile</h1>
+<h1 Welcome to my profile</h1>
 <p align="center">
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bachchejee Ray</h1>
