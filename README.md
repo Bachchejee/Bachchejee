@@ -18,7 +18,6 @@
 - 🌱 I’m currently learning Artficial Intelligence.
 - 👯 I’m looking to collaborate on Cheif level company...
 - 🤔 I’m looking for help with All Persons.
-- 💬 Ask me about ...
 - 📫 How to reach me: Bachchejee@yahoo.com
  
 
