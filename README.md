@@ -14,7 +14,7 @@
   <em> This is Mr Bachchejee Ray, a Data Scientist with extensive experience in solving many real-world business problems across different domains. I have 2 Year experience in IT industry. Currently, I have a complete data science internship and a lot of skills gain. Currently working as a Data Scientist Machine Learning & Deep Learning Developer. Possess widespread and progressive experience in the IT industry, focusing on business analysis, design, development, implementation, and migration of large-scale, big-budget business transformation projects. Impeccable knowledge for initiating applications with Algorithms, Data structures, Artificial Intelligence, Machine Learning, Deep Learning, Convolutional Neural networks, Recurrent Neural networks, and Software Development & Project Implementation.
   </em> 
 
-- 🔭 I’m currently working on Nackton Inc.
+- 🔭 I’m currently working on Machine Learning(R&D).
 - 🌱 I’m currently learning Artficial Intelligence.
 - 👯 I’m looking to collaborate on Cheif level company...
 - 🤔 I’m looking for help with All Persons.
