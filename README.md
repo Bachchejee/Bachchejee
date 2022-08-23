@@ -14,14 +14,14 @@
   <em> This is Mr Bachchejee Ray, a Data Scientist with extensive experience in solving many real-world business problems across different domains. I have 4 Year experience in IT industry. Currently, I have a complete data science internship and a lot of skills gain. Currently working as a Data Scientist Machine Learning & Deep Learning Developer. Possess widespread and progressive experience in the IT industry, focusing on business analysis, design, development, implementation, and migration of large-scale, big-budget business transformation projects.
   </em> 
 <p>
-Data pipelines;
-Programming skills: SQL, R, Python, Java, etc;
-Big data: Hive, Pig, Spark, Hadoop, MapReduce, etc;
-Cloud: Amazon Web Services (AWS), Microsoft Azure;
-Database skills: MongoDB, Oracle;
-ETL Pipelines;
-Machine learning;
-Data analysis. 
+-Data pipelines;
+-Programming skills: SQL, R, Python, Java, etc;
+-Big data: Hive, Pig, Spark, Hadoop, MapReduce, etc;
+-Cloud: Amazon Web Services (AWS), Microsoft Azure;
+-Database skills: MongoDB, Oracle;
+-ETL Pipelines;
+-Machine learning;
+-Data analysis. 
 </p>
 
 - 🔭 I’m currently working on Data Engineer and Data Scientist.
@@ -33,15 +33,5 @@ Data analysis.
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
+
 </p></code>
