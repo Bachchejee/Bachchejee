@@ -29,5 +29,5 @@
 - 🤔 I’m looking for help with All Persons.
 - 📫 How to reach me: Bachchejee@outlook.com
  
-<h2><centre> Thank You </centre></h2>
+<center><h2>Thank You</h2></center>
 </code>
