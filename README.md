@@ -1,7 +1,7 @@
-<h2 align="center"> Welcome to my Profile </h>
+<h2 align="center"> Welcome to my Profile </h2>
 <p align="center">
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bachchejee Ray</h2>
-<h3 align="center">DE & DS</h3>
+<h3 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bachchejee Ray</h3>
+<h4 align="center">DE & DS</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/bachchejee-ray-5b3457130/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Bachchejee" height="30" width="40" /></a>
 <a href="https://www.facebook.com/bachchejee.ray" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Bachchejee" height="30" width="40" /></a>
