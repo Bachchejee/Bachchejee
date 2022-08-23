@@ -29,9 +29,5 @@
 - 🤔 I’m looking for help with All Persons.
 - 📫 How to reach me: Bachchejee@outlook.com
  
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
-<p align="left">
-  
-
-</p></code>
+<h2><centre> Thank You </centre></h2>
+</code>
