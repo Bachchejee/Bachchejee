@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <em> This is Mr Bachchejee Ray, a IT with extensive experience in solving many real-world business problems across different domains. I have several year experience in IT industry. Currently, Possess widespread and progressive experience in the IT industry, focusing on business analysis, design, development, implementation, and migration of large-scale, big-budget business transformation projects.
+  <em> This is Mr Prakash Ray, a IT with extensive experience in solving many real-world business problems across different domains. I have several year experience in IT industry. Currently, Possess widespread and progressive experience in the IT industry, focusing on business analysis, design, development, implementation, and migration of large-scale, big-budget business transformation projects.
   </em> 
 - 🔭 I’m currently working on Vigomerge Technology.
 - 👯 I’m looking to collaborate on Cheif level company...
